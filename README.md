@@ -1,2 +1,4 @@
-# floaty
-A floating wayland compositor written in Python.
+# afc
+"Amnexya's floating compositor."
+
+A floating-window wayland compositor.
